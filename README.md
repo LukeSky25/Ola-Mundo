@@ -3,4 +3,4 @@
 
  Repositório teste de Olá, mundos
 
- Essa linhsa foi adicionada direto pelo site do GitHub
+ Essa linha foi adicionada direto pelo site do GitHub
